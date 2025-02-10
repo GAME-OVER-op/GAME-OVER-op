@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @GAME-OVER-op
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 t.me/GAME_OVER_op
-
-<!---
-GAME-OVER-op/GAME-OVER-op is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @GAME-OVER-op  
+👀 I’m interested in network security, bypassing restrictions, and creating useful tools for Android.  
+🌱 I’m currently learning more about advanced networking and security protocols.  
+📫 You can reach me at [t.me/GAME_OVER_op](https://t.me/GAME_OVER_op)
